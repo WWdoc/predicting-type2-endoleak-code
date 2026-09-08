@@ -1,7 +1,3 @@
-# predicting-type2-endoleak-code
-Source code for manuscript on predicting Type 2 endoleak
-
-
 # Reproducible analysis code for predicting type II endoleak
 
 This repository contains generic R scripts corresponding to the tables and figures in the manuscript. Patient-level data are intentionally not included. The scripts use a public, standardized data contract and do not contain manuscript results, personal file paths, or manually entered patient values.
