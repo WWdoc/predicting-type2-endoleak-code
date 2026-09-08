@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+data/*
+!data/README.md
+
+outputs/*
+!outputs/.gitkeep
+
+.DS_Store
+~$*
+*.tmp
